@@ -1,0 +1,38 @@
+[
+    {
+        "img": "../images/insta.jpg",
+        "alt": "Girl doing her makeup"
+    },
+
+    {
+        "img": "../images/insta2.jpg",
+        "alt": "Cosmetics product"
+    },
+
+    {
+        "img": "../images/insta3.jpg",
+        "alt": "Girl with lashes"
+    },
+    {
+        "img": "../images/insta6.jpg",
+        "alt": "Girl applying mask"
+    },
+   {
+        "img": "../images/insta9.jpg",
+        "alt": "Girl with red eyeshadow"
+    },
+    {
+        "img": "../images/insta4.jpg",
+        "alt": "Girl with blue makeup"
+    },
+    {
+        "img": "../images/insta5.jpg",
+        "alt": "Cosmetics products"
+    },
+    
+    {
+        "img": "../images/insta7.jpg",
+        "alt": "Girl applying mask"
+    }
+    
+]
